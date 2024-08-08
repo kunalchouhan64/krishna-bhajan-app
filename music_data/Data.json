@@ -1,0 +1,132 @@
+[
+  {
+    "name": "krishna_music",
+    "audios": [
+      {
+        "id": 1,
+        "avatar": "music_data/kanha_bhajans/one.jpg",
+        "name": "Achutam Keshavam",
+        "url": "music_data/kanha_bhajans/achutam_keshavam.mp3"
+      },
+      {
+        "id": 2,
+        "avatar": "music_data/kanha_bhajans/two.jpg",
+        "name": "Barsane Wali Radhe",
+        "url": "music_data/kanha_bhajans/barsane_wali_radhe.mp3"
+      },
+      {
+        "id": 3,
+        "avatar": "music_data/kanha_bhajans/three.jpg",
+        "name": "Dekho Sanwre Sang",
+        "url": "music_data/kanha_bhajans/dekho_sanwre_sang_dori.mp3"
+      },
+      {
+        "id": 4,
+        "name": "Kishori Kuch Aisa",
+        "avatar": "music_data/kanha_bhajans/four.jpg",
+        "url": "music_data/kanha_bhajans/kishori_kuch_aisa.mp3"
+      },
+      {
+        "id": 5,
+        "name": "Mera Apki Kripa Se",
+        "avatar": "music_data/kanha_bhajans/five.jpg",
+        "url": "music_data/kanha_bhajans/mera_apki_kripa_se.mp3"
+      },
+      {
+        "id": 6,
+        "name": "Sanwre Ko Dil Me",
+        "avatar": "music_data/kanha_bhajans/six.jpg",
+        "url": "music_data/kanha_bhajans/sanwre_ko_dil_me.mp3"
+      },
+      {
+        "id": 7,
+        "name": "Shri Krishn Govind",
+        "avatar": "music_data/kanha_bhajans/seven.jpg",
+        "url": "music_data/kanha_bhajans/shri_krishna_govinda_hare_murari.mp3"
+      },
+      {
+        "id": 8,
+        "name": "Teri Bani Adaa Ne",
+        "avatar": "music_data/kanha_bhajans/eighteth.jpg",
+        "url": "music_data/kanha_bhajans/teri_banki_ada_ne.mp3"
+      },
+      {
+        "id": 9,
+        "name": "Shri Hari Strotam",
+        "avatar": "music_data/kanha_bhajans/ten.jpg",
+        "url": "music_data/kanha_bhajans/vishnu_shri_hari_strotam.mp3"
+      },
+      {
+        "id": 10,
+        "name": "Ye To Prem Ki Baat",
+        "avatar": "music_data/kanha_bhajans/elevan.jpg",
+        "url": "music_data/kanha_bhajans/ye_to_prem_ki_baat_hai.mp3"
+      }
+    ]
+  },
+  {
+    "name": "indreshji_bhajan",
+    "audios": [
+      {
+        "id": 1,
+        "avatar": "music_data/indreshji_bhajans/one.png",
+        "name": "Me Bairagan Houngi",
+        "url": "music_data/indreshji_bhajans/mai_baiaragan_houngi.mp3"
+      },
+      {
+        "id": 2,
+        "avatar": "music_data/indreshji_bhajans/two.png",
+        "name": "Jisko Tera Bharosa Hai",
+        "url": "music_data/indreshji_bhajans/jisko_tera_bharosa.mp3"
+      },
+      {
+        "id": 3,
+        "avatar": "music_data/indreshji_bhajans/three.png",
+        "name": "Jaha Le Chaloge Wha",
+        "url": "music_data/indreshji_bhajans/jaha_le_chalunga_wha.mp3"
+      },
+      {
+        "id": 4,
+        "avatar": "music_data/indreshji_bhajans/four.png",
+        "name": "Jogi Rang Bhi Naya",
+        "url": "music_data/indreshji_bhajans/jogi_rang_bhi_naya.mp3"
+      },
+      {
+        "id": 5,
+        "avatar": "music_data/indreshji_bhajans/five.png",
+        "name": "Pyaro Brindaban Mharo",
+        "url": "music_data/indreshji_bhajans/pyaro_brindaban.mp3"
+      },
+      {
+        "id": 6,
+        "avatar": "music_data/indreshji_bhajans/six.png",
+        "name": "Radha Raman Hare Hare",
+        "url": "music_data/indreshji_bhajans/radha_ramanam_hare_hare.mp3"
+      },
+      {
+        "id": 7,
+        "avatar": "music_data/indreshji_bhajans/seven.png",
+        "name": "Suno Radhika Dulari",
+        "url": "music_data/indreshji_bhajans/sun_radhika_dulari.mp3"
+      },
+      {
+        "id": 8,
+        "avatar": "music_data/indreshji_bhajans/eight.png",
+        "name": "Tera Kishne Kiya Shringar",
+        "url": "music_data/indreshji_bhajans/tera_kisne_kiya_shringar.mp3"
+      },
+      {
+        "id": 9,
+        "avatar": "music_data/indreshji_bhajans/nine.PNG",
+        "name": "Teri Sharan Me Aakar",
+        "url": "music_data/indreshji_bhajans/teri_sharan_me_aankar.mp3"
+      },
+      {
+        "id": 10,
+        "avatar": "music_data/indreshji_bhajans/ten.jpg",
+        "name": "Teri Sharan Me aake",
+        "url": "music_data/indreshji_bhajans/teri_sharan_me_aanke.mp3"
+      }
+    ]
+  }
+]
